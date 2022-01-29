@@ -17,7 +17,7 @@ namespace SQL_Server
         {
             InitializeComponent();
             ////Connection to Sql Server
-            sqlcon.conn = new SqlConnection("Data Source=DESKTOP-O4D2RM3;Initial Catalog=database;User ID=erwin;Password=123456789;");
+            sqlcon.conn = new SqlConnection("Data Source=********;Initial Catalog=database;User ID=*********;Password=*************;");
         }
 
 
