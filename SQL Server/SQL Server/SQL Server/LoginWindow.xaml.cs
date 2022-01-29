@@ -14,7 +14,7 @@ namespace SQL_Server
         public LoginWindow()
         {
             InitializeComponent();
-            sqlcon.conn = new SqlConnection("Data Source=DESKTOP-O4D2RM3;Initial Catalog=database;User ID=erwin;Password=123456789;");
+            sqlcon.conn = new SqlConnection("Data Source=.;Initial Catalog=database;User ID=*********;Password=**********;");
         }
 
 
